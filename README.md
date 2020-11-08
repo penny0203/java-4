@@ -40,7 +40,7 @@ public class Test {
  }
  ```
 #### 七、实验结果
-![实验截图](https://github.com/wccc33/experience-4/blob/main/1.png)
+![实验截图](https://github.com/penny0203/java-4/blob/main/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202020-11-08%20232850.png)
 #### 八、实验感想
 ##### 对于这次实验我对try-catch异常处理有了初步了解
 ##### 知道了interface定义接口，implement实现接口
